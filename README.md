@@ -1,6 +1,6 @@
 #ReactNativeIntegration_TaskListSample
 
-You can integrate a React Native app (which is developed in React Native framework) into a Kony app (which is developed in Kony framework). The React Native app is embedded into the Kony form through a container, called as the React Native Container. Furthermore, some APIs are used to communicate between the React Native app's JavaScript framework and the Kony app's Kony framework. This feature is available from V8 SP4 onwards. For more information on the feature, check out the documentation page here.
+You can integrate a React Native app (which is developed in React Native framework) into a Kony app (which is developed in Kony framework). The React Native app is embedded into the Kony form through a container, called as the React Native Container. Furthermore, some APIs are used to communicate between the React Native app's JavaScript framework and the Kony app's Kony framework. This feature is available from V8 SP4 onwards. For more information on the feature, check out the documentation page <a href = "https://docs.kony.com/konylibrary/visualizer/visualizer_user_guide/Default.htm#Integrate_React_Native_App_into_Kony_App.htm"> here </a>.
 
 This app is a simple task list sample which shows a list of tasks as set by the user. One can add new tasks using the floating button on the home screen. One can also delete the tasks by swiping the rows of the segment. 
 
