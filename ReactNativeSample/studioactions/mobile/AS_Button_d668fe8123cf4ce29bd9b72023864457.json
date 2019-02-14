@@ -1,0 +1,51 @@
+{
+    "AS_Button_d668fe8123cf4ce29bd9b72023864457": {
+        "id": "AS_Button_d668fe8123cf4ce29bd9b72023864457",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____a0fbeb36177a44c0a93194d43c4008c1",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmHome",
+            "widgetId": "flxBackGround",
+            "itemKUID": "ced92aae58b1444dbf84817c7ceda8aa",
+            "widgetKUID": "f025208d0f9a4295bf256e637c542b9e",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "left": "0%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "1",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____a0fbeb36177a44c0a93194d43c4008c1",
+            "displayAnimationId": "MOVE_ACTION____a0fbeb36177a44c0a93194d43c4008c1",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxBackGround"
+        }, {
+            "id": "INVOKE_FUNCTION___fa9c2837efbc4884b42e09961160588f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClick_Button",
+            "display": "onClick_Button",
+            "inputparams": [],
+            "parentId": "MOVE_ACTION____a0fbeb36177a44c0a93194d43c4008c1",
+            "callbackType": "Callback",
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

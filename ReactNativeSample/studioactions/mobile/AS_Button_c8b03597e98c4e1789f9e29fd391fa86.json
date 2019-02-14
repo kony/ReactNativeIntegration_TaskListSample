@@ -1,0 +1,51 @@
+{
+    "AS_Button_c8b03597e98c4e1789f9e29fd391fa86": {
+        "id": "AS_Button_c8b03597e98c4e1789f9e29fd391fa86",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fefe7661657c4002beda40ec6ae5a029",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClick_Button",
+            "display": "onClick_Button",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "MOVE_ACTION____ca939ce49e8f4012a152952f28e6ea16",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmMain",
+            "widgetId": "flxBackGround",
+            "itemKUID": "e7a88be9f96c4ca4997610044256ccc3",
+            "widgetKUID": "fb63ec8f5ad4431ba195e6683209f9fa",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "left": "0%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____ca939ce49e8f4012a152952f28e6ea16",
+            "displayAnimationId": "MOVE_ACTION____ca939ce49e8f4012a152952f28e6ea16",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxBackGround"
+        }]
+    }
+}

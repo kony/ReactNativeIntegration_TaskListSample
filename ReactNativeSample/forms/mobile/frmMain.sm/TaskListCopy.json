@@ -1,0 +1,219 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_bottom_": {
+        "type": "string",
+        "value": ""
+    },
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": ""
+    },
+    "_skin_": "sdaeca9f1365405e822b4fd2d10d8ec9",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_vizProps_": {},
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": ""
+    },
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "TaskListCopy": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "c058ea8167774832a3bdd3a5e361bbb4",
+                "srcKUID": "u676c97c5808436fa08add818caec679",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "80%"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0%"
+                }
+            }
+        },
+        "segTasks": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a1d4ada223d441808f1d41f3aaf932be",
+                "srcKUID": "u848c712a84d449caca1948bf0b78c2d",
+                "wType": "Segment"
+            },
+            "data": {
+                "mobile": [
+                    {
+                        "imgCheck": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymplisttakscheck_1.png"
+                        },
+                        "lblHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Debugging on react-native app."
+                        },
+                        "lblSubHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "create a sample form with validations on react-native"
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10/02/2019"
+                        }
+                    },
+                    {
+                        "imgCheck": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymplisttakscheck_1.png"
+                        },
+                        "lblHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Test on map features."
+                        },
+                        "lblSubHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "test pinch and zomm gestures on map."
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "11/02/2109"
+                        }
+                    },
+                    {
+                        "imgCheck": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymplisttakscheck_1.png"
+                        },
+                        "lblHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "debugging on V8 SP4 features."
+                        },
+                        "lblSubHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "test V8 SP4 freatures on Visualizer."
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "11/02/2019"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "TaskListCopy",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "c058ea8167774832a3bdd3a5e361bbb4",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "parentFlex",
+    "pf": "frmMain",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u676c97c5808436fa08add818caec679",
+    "wType": "UserWidgetInstance"
+}

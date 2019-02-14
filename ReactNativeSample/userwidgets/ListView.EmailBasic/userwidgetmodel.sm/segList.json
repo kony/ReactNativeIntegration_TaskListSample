@@ -1,0 +1,315 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "07",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": true
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "fbe7443ae57e4274a61d818976c3304f",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "emailstatus.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Research In Advertising"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Wayne"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2 days ago"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "emailstatus.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Study 800 Numbers Still"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Essie Hoffman"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "emailstatus.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "There is no Competition"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Carl Ferguson"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4 hours ago"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Enhance your brand Potential"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Sadie Bass"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2 days ago"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Effective advertising Pointers"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Marie White"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Home Business Advertising"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Lora Collins"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4 hours ago"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Is is classified how to utilize"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bobby Drake"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2 days ago"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "imgDot": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Creative Outdoor Ads "
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Natheniel Joseph"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            }
+        ],
+        "rowTemplateId": "h222f049889949b59aef55b2f9aad3aa",
+        "rowtemplate": "flxRow",
+        "widgetdatamap": {
+            "flxRow": "flxRow",
+            "imgArrow": "imgArrow",
+            "imgDot": "imgDot",
+            "lblDescription": "lblDescription",
+            "lblHeading": "lblHeading",
+            "lblTime": "lblTime"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "EmailBasic",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 7,
+    "rowfocusskin": "sa15397066784f3780903fa0c8df19f0",
+    "rowskin": "s34c8378286c4f1f8a558357be3173c5",
+    "rowtemplate": "flxRow",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s753ec74ed0e40f9afa7a7c5c8ad09b2",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d3d3d300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxRow": "flxRow",
+        "imgArrow": "imgArrow",
+        "imgDot": "imgDot",
+        "lblDescription": "lblDescription",
+        "lblHeading": "lblHeading",
+        "lblTime": "lblTime"
+    },
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

@@ -1,0 +1,240 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_bottom_": {
+        "type": "string",
+        "value": ""
+    },
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": ""
+    },
+    "_skin_": "sdaeca9f1365405e822b4fd2d10d8ec9",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_vizProps_": {},
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": ""
+    },
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "TaskList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d69b0a1a83794a0f80b605183e2e1fec",
+                "srcKUID": "ue558752e95c4cc59673b44534942a70",
+                "wType": "FlexContainer"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "2%"
+                }
+            }
+        },
+        "segTasks": {
+            "__events__": {
+                "ide_onRowClick": "AS_Segment_a2e19b375d4945bf889bd50d9ad82cd8"
+            },
+            "__info__": {
+                "kuid": "e3278559cb2d4333869baed51e2e1fa6",
+                "srcKUID": "e05e280a327b4f36a974d07ff7af4382",
+                "wType": "Segment"
+            },
+            "autogrowMode": {
+                "Default": 1
+            },
+            "data": {
+                "mobile": [
+                    {
+                        "imgCheck": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymplisttakscheck.png"
+                        },
+                        "lblHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "testing on Map Features."
+                        },
+                        "lblSubHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "test Pinch and Zoom fetures on map Widget."
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/02/2018"
+                        }
+                    },
+                    {
+                        "imgCheck": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymplisttakscheck.png"
+                        },
+                        "lblHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "create a sample react-native app."
+                        },
+                        "lblSubHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "create a sample login form with validations for react-native app."
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "01/02/2019"
+                        }
+                    },
+                    {
+                        "imgCheck": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymplisttakscheck.png"
+                        },
+                        "lblHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Bug Bash on v8 sp4 features."
+                        },
+                        "lblSubHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "test react-native app in kony."
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "01/02/2019"
+                        }
+                    },
+                    {
+                        "imgCheck": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymplisttakscheck.png"
+                        },
+                        "lblHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "follow up pending tutorials."
+                        },
+                        "lblSubHeader": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "look into pending python tutorials."
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "31/01/2018"
+                        }
+                    }
+                ]
+            },
+            "height": {
+                "Default": {
+                    "type": "ref",
+                    "value": "preferred"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "TaskList",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "d69b0a1a83794a0f80b605183e2e1fec",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxParent1",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ue558752e95c4cc59673b44534942a70",
+    "wType": "UserWidgetInstance"
+}

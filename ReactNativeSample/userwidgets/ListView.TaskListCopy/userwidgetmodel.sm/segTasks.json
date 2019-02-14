@@ -1,0 +1,169 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segTasks",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "u848c712a84d449caca1948bf0b78c2d",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "imgCheck": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplisttakscheck_1.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Buy English Books"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "I am back, after a few days of vacationing with family, Weather was"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2 days ago"
+                }
+            },
+            {
+                "imgCheck": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplisttaksuncheck_1.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Send Invitation to Jake"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Over 92% of computers are infected with Adware and Spyware"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            },
+            {
+                "imgCheck": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplisttaksuncheck_1.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Backup Mail"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "With Myspace becoming more popular every day, there is a constant need to"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            }
+        ],
+        "rowTemplateId": "f621060f29024db3a04a3fecc5138eec",
+        "rowtemplate": "CopyflxTasks",
+        "widgetdatamap": {
+            "CopyflxTasks": "CopyflxTasks",
+            "imgCheck": "imgCheck",
+            "lblHeader": "lblHeader",
+            "lblSubHeader": "lblSubHeader",
+            "lblTime": "lblTime"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "TaskListCopy",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 2,
+    "rowfocusskin": "sc8c50761a494577a9b7c75f3575f56b",
+    "rowskin": "sff7e4d47acf477db19d6ee847a70111",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s2f16ad26c9d418abf6b355111f0e1dd",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d3d3d300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxTasks": "CopyflxTasks",
+        "imgCheck": "imgCheck",
+        "lblHeader": "lblHeader",
+        "lblSubHeader": "lblSubHeader",
+        "lblTime": "lblTime"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,4 @@
+#Thu Jan 24 19:31:40 IST 2019
+base.0=/Users/kh2304/KonyVizEWS/8.4/reactNativeSample/ReactNativeProjects/taskManager/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

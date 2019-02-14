@@ -1,0 +1,9 @@
+{
+  
+  "dependencies": [
+    "react",
+    "react-native",
+    "react-navigation"
+  ]
+  
+}

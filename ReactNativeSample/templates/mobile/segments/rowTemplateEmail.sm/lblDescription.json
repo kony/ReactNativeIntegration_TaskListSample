@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "23%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7.50%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdcfea864fba400f8d802e76f9650e8a",
+    "_text_": "Research In Advertising",
+    "_top_": {
+        "type": "string",
+        "value": "54%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "maxNumberOfLines": 2,
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "textTruncatePosition": 0
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblDescription",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "maxNumberOfLines": 2,
+        "psp": {
+            "wrapping": 2
+        },
+        "textTruncatePosition": 0
+    },
+    "isvisible": true,
+    "kuid": "f17a1da62b5d4587bb8b82dc693e1f14",
+    "maxnumberoflines": 2,
+    "name": "kony.ui.Label",
+    "parent": "flxRow",
+    "pf": "rowTemplateEmail",
+    "texttruncateposition": 0,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

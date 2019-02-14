@@ -1,0 +1,55 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "11.40%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "seb4dc1eb8e54831ba904580c1a12ed1",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblHeading",
+        "lblDescription",
+        "lblTime",
+        "imgArrow",
+        "imgDot"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flxRowController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxRow",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "hccc213a5d6a4167ba72c394009ea4f9",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "rowTemplateEmail",
+    "pf": "rowTemplateEmail",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

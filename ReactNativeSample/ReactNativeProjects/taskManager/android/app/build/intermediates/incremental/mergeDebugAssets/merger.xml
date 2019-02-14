@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kh2304/KonyVizEWS/8.4/reactNativeSample/ReactNativeProjects/taskManager/android/app/src/main/assets"/><source path="/Users/kh2304/KonyVizEWS/8.4/reactNativeSample/ReactNativeProjects/taskManager/android/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/kh2304/KonyVizEWS/8.4/reactNativeSample/ReactNativeProjects/taskManager/android/app/src/debug/assets"/></dataSet></merger>
